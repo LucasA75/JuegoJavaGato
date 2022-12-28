@@ -1,0 +1,8 @@
+El juego consiste en encontrar las llaves para abrir las puertas y encontrar el tesoro con las monedas
+
+W -> Arriba
+A -> Izquierda
+S -> Abajo
+D -> Derecha
+
+Espero que lo disfrutes!
